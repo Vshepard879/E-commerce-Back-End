@@ -27,8 +27,8 @@ SO THAT my company can compete with other e-commerce companies
 - WHEN I click on the Write icon in the navigation at the top of the page
 - THEN I am able to successfully create, update, and delete data in my database
 ## Demo of Project 
-
-
+Part 1 - https://drive.google.com/file/d/1ABEIGiS7iAkXb27a6-LBm71TUlLLP_af/view
+Part 2 - https://drive.google.com/file/d/1mimCi3kcBpj6x7m8Ke2vz1mYprX2nmAm/view
 
 ## Install
 To install the dependencies you run:
